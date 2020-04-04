@@ -3,3 +3,7 @@ Main:
 
 1.Repository creation
 2. Branches
+
+3.New branch creation
+4.Branches Merging
+5.Pull Request
